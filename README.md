@@ -1,2 +1,2 @@
 # BasicSnakeGame
-The snake game everyone knows
+The snake game that everyone knows
